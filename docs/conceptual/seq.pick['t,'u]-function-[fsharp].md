@@ -31,7 +31,7 @@ Seq.pick chooser source
 
 #### Parameters
 *chooser*
-Type: **'T -&gt; 'U**[option](https://msdn.microsoft.com/library/b08add48-34bf-4410-80a1-ef6a8daddc58)
+Type: **'T -&gt; 'U** [option](https://msdn.microsoft.com/library/b08add48-34bf-4410-80a1-ef6a8daddc58)
 
 
 A function to transform each item of the input sequence into an option of the output type.
